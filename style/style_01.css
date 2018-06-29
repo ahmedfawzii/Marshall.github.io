@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#home {
+	height: 786px;
+	width: 1350px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+	background-image: url(../pics/final.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#useless {
+	width: 1350px;
+	height: 716px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;}
+#home #useless #t-shirt {
+	margin-left: 223px;
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-decoration: none;
+	font-size: 55px;
+	text-transform: capitalize;
+}
+
+
+#home #useless #shirt {
+	margin-left: 463px;
+	margin-right: -135px;
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-decoration: none;
+	font-size: 55px;
+	margin-top: 26px;
+	text-transform: uppercase;
+}
+
+#home #useless #jeans {
+	display: inline-block;
+	margin-left: 371px;
+	margin-top: 500px;
+	margin-right: -357px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 55px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	text-transform: uppercase;
+
+}
+#links {
+	height: 70px;
+	width: 1350px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	text-align: center;
+	
+	clear: both;
+    
+	
+}
+
+#links #insta .fab.fa-instagram {
+	color: #FFFFFF;
+	font-size: xx-large;
+}
+#links #face .fab.fa-facebook-square {
+	color: #FFFFFF;
+	font-size: xx-large;
+	margin-top: 20px;
+	margin-right: 17px;
+}
