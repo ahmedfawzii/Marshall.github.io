@@ -26,9 +26,9 @@ body {
 	border-width: 0px;
 	border-style: solid;}
 #home #useless #t-shirt {
-	margin-left: 223px;
+	margin-left: 182px;
 	color: #FFFFFF;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-family: 'Anton', sans-serif;
 	text-decoration: none;
 	font-size: 55px;
 	text-transform: capitalize;
@@ -36,10 +36,10 @@ body {
 
 
 #home #useless #shirt {
-	margin-left: 463px;
-	margin-right: -135px;
+	margin-left: 413px;
+	margin-right: -81px;
 	color: #FFFFFF;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-family: 'Anton', sans-serif;
 	text-decoration: none;
 	font-size: 55px;
 	margin-top: 26px;
@@ -48,13 +48,13 @@ body {
 
 #home #useless #jeans {
 	display: inline-block;
-	margin-left: 371px;
-	margin-top: 500px;
-	margin-right: -357px;
+	margin-left: 373px;
+	margin-top: 493px;
+	margin-right: -301px;
 	text-decoration: none;
 	color: #FFFFFF;
 	font-size: 55px;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-family: 'Anton', sans-serif;
 	text-transform: uppercase;
 
 }
